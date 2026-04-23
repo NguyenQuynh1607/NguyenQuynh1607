@@ -99,14 +99,32 @@ Java + Spring Boot + Thymeleaf + MySQL
 - Hiểu cách sử dụng mô hình AI cơ bản (FER2013)
 - Kết hợp AI với ứng dụng thực tế
 
----
+### 🎄 Christmas Tree 3D Interactive (NEW)
+
+**Live Demo**  
+👉 https://christmas-tree-main-95eipgevv-nguyen-quynh.vercel.app  
+
+**Mô tả**  
+Ứng dụng web hiển thị cây thông Noel 3D với hiệu ứng ánh sáng và ảnh cá nhân dạng Polaroid.  
+Được triển khai online bằng Vercel.
+
+**Tính năng**
+- Render cây thông 3D bằng Three.js  
+- Hiển thị ảnh động từ thư mục local  
+- Hiệu ứng ánh sáng và particle  
+- Tương tác xoay góc nhìn  
+
+**Công nghệ**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## > contact
 
 📧 Email: nguyenquynh24042020@gamil.com 
 💻 GitHub: https://github.com/NguyenQuynh1607  
 
----
 
 ## > conclusion
 
@@ -117,7 +135,6 @@ Hiện tại mình đang:
 - Sẵn sàng học hỏi và cải thiện mỗi ngày  
 - Mong muốn được tham gia vào môi trường thực tế để phát triển kỹ năng  
 
----
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
