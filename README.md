@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Intern+%7C+Tester+%7C+BA;Java+%7C+Spring+Boot+%7C+MySQL;Willing+to+learn+and+improve+everyday" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+(Java+Spring+Boot);RESTful+API+%7C+MySQL+%7C+System+Design;Willing+to+learn+and+improve+everyday" />
 
 <br/>
 
@@ -15,16 +15,16 @@ name        : Nguyen Quynh
 role        : Backend Intern | Tester | BA Intern
 location    : Vietnam 🇻🇳
 education   : Công Nghệ Thông Tin — Văn Lang University
-status      : Fresh Graduate
-```
+status      : Intern Graduate
+
 strengths   :
-  - Nắm vững Java cơ bản
-  - Hiểu CRUD + Database (MySQL)
-  - Có project thực tế
-  - Có tư duy học nhanh, tự học
+  - Strong foundation in Java & OOP
+  - Build RESTful APIs with Spring Boot
+  - Database design & CRUD (MySQL)
+  - Fast learner with self-learning mindset
 
 goal        : Become Backend Developer
-
+```
 ## > tech_stack
 
 ### Backend
@@ -54,8 +54,10 @@ goal        : Become Backend Developer
 
 ## `> projects`
 ### 🛒 Children's Clothing E-commerce Website
-Java + Spring Boot + Thymeleaf + MySQL
+**github**
+https://github.com/NguyenQuynh1607/emotion-music-recommendation
 
+Java + Spring Boot + Thymeleaf + MySQL
 - Xây dựng website bán quần áo trẻ em
 - Có chức năng người dùng và quản trị viên
 - Hỗ trợ tìm kiếm sản phẩm, giỏ hàng, đặt hàng và thanh toán QR
@@ -70,17 +72,24 @@ Java + Spring Boot + Thymeleaf + MySQL
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
 **Mục tiêu**
+
 - Xây dựng website bán hàng online cơ bản
 - Áp dụng kiến thức Java, Spring Boot và MySQL vào thực tế
 - Hiểu luồng xử lý hệ thống: từ người dùng đến database
 - Làm quen với quy trình phát triển một hệ thống thương mại điện tử
 ### 😊 Emotion-based Music Recommendation
+**github**
+
+https://github.com/NguyenQuynh1607/shopfashionkid 
 
 **Mô tả**  
+
 Ứng dụng nhận diện cảm xúc khuôn mặt theo thời gian thực và gợi ý danh sách nhạc phù hợp với trạng thái cảm xúc.
 
 **Cách hoạt động**
+
 - Sử dụng webcam để lấy hình ảnh khuôn mặt
 - Mô hình AI dự đoán cảm xúc (7 loại cảm xúc)
 - Dựa vào kết quả:
@@ -88,6 +97,7 @@ Java + Spring Boot + Thymeleaf + MySQL
   - 😢 Buồn → gợi ý nhạc buồn  
 
 **Công nghệ sử dụng**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -96,20 +106,27 @@ Java + Spring Boot + Thymeleaf + MySQL
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 **Mục tiêu**
+
 - Làm quen với Computer Vision
 - Hiểu cách sử dụng mô hình AI cơ bản (FER2013)
 - Kết hợp AI với ứng dụng thực tế
 
 ### 🎄 Christmas Tree 3D Interactive (NEW)
+**github** 
+
+https://github.com/NguyenQuynh1607/christmas-tree-main 
 
 **Live Demo**  
+
 👉 https://christmas-tree-main-95eipgevv-nguyen-quynh.vercel.app  
 
 **Mô tả**  
+
 Ứng dụng web hiển thị cây thông Noel 3D với hiệu ứng ánh sáng và ảnh cá nhân dạng Polaroid.  
 Được triển khai online bằng Vercel.
 
 **Tính năng**
+
 - Render cây thông 3D bằng Three.js  
 - Hiển thị ảnh động từ thư mục local  
 - Hiệu ứng ánh sáng và particle  
@@ -123,7 +140,7 @@ Java + Spring Boot + Thymeleaf + MySQL
 
 ## > contact
 
-📧 Email: nguyenquynh24042020@gamil.com 
+📧 Email: nguyenquynh24042020@gmail.com 
 💻 GitHub: https://github.com/NguyenQuynh1607  
 
 
