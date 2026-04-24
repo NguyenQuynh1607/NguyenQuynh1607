@@ -10,12 +10,13 @@
 </div>
 
 ## `> whoami`
+```yaml
 name        : Nguyen Quynh
 role        : Backend Intern | Tester | BA Intern
 location    : Vietnam 🇻🇳
 education   : Công Nghệ Thông Tin — Văn Lang University
 status      : Fresh Graduate
-
+```
 strengths   :
   - Nắm vững Java cơ bản
   - Hiểu CRUD + Database (MySQL)
