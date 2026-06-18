@@ -81,7 +81,6 @@ Java + Spring Boot + Thymeleaf + MySQL
 - Làm quen với quy trình phát triển một hệ thống thương mại điện tử
 ### 😊 Emotion-based Music Recommendation
 **github**
-
 https://github.com/NguyenQuynh1607/shopfashionkid 
 
 **Mô tả**  
